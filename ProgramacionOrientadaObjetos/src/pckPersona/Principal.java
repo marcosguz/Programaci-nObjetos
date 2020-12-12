@@ -1,10 +1,11 @@
+package pckPersona;
 
 public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Persona objPersona;
+		/*Persona objPersona;
 		Persona objPersona2 = new Persona();
 		Auto objAuto;
 		
@@ -32,7 +33,7 @@ public class Principal {
 		System.out.println("Nombre: "+objPersona2.nombre);
 		System.out.println("Cédula: "+objPersona2.cedula);
 		System.out.println("Edad: "+objPersona2.edad);
-		System.out.println("Estatura: "+objPersona2.estaturacm+" cm");
+		System.out.println("Estatura: "+objPersona2.estaturacm+" cm");*/
 		
 	}
 

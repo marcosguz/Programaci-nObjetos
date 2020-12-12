@@ -1,4 +1,4 @@
-
+package pckRectangulo;
 public class testRectangulo {
 
 	public static void main(String[] args) {
